@@ -1,3 +1,4 @@
+package junsuk.ch3;
 
 public class ch3prac7 {
 		public static void main(String[] args) {

@@ -1,17 +1,12 @@
+package junsuk.ch5;
 import java.util.*;
 
-class MultiArrEx1_1 {
+class MultiArrEx1 {
 	public static void main(String[] args) {
 		final int SIZE = 10;
 		int x = 0, y = 0;
 
 		char[][] board = new char[SIZE][SIZE];
-		for (int i = 0; i<board.length; i++) {
-			for (int j = 0; j< board[i].length; j++) {
-				
-			}
-		}
-		
 		byte[][] shipBoard = {
 		  //  1  2  3  4  5  6  7  8  9
 			{ 0, 0, 0, 0, 0, 0, 1, 0, 0 }, // 1

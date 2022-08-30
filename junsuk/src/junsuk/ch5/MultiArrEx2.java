@@ -1,3 +1,4 @@
+package junsuk.ch5;
 import java.util.*;
 
 class MultiArrEx2 {
