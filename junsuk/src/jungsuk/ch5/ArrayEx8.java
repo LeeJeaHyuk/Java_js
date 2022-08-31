@@ -1,4 +1,4 @@
-package junsuk.ch5;
+package jungsuk.ch5;
 class ArrayEx8 {
 	public static void main(String[] args) {
 		// 45개의 정수값을 저장하기 위한 배열 생성.

@@ -1,4 +1,4 @@
-package junsuk.ch5;
+package jungsuk.ch5;
 import java.util.Arrays;
 
 public class ch5prac5 {

@@ -1,4 +1,4 @@
-package junsuk.ch5;
+package jungsuk.ch5;
 class ArrayEx13 {
 	public static void main(String[] args) {
 		// 16진수-> 2진수 변환

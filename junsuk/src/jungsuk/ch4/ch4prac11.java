@@ -1,4 +1,4 @@
-package junsuk.ch4;
+package jungsuk.ch4;
 
 public class ch4prac11 {
 	public static void main(String args[]) {

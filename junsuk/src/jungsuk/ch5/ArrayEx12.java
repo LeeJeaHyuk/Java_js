@@ -1,4 +1,4 @@
-package junsuk.ch5;
+package jungsuk.ch5;
 class ArrayEx12 {
 	public static void main(String[] args) {
 		String[] names = { "Kim", "Park", "Yi" };

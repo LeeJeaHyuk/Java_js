@@ -1,4 +1,4 @@
-package junsuk.ch6;
+package jungsuk.ch6;
 
 
 class Data {
