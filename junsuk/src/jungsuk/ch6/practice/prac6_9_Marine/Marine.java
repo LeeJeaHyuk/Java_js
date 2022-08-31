@@ -1,4 +1,4 @@
-package prac6_9_Marine;
+package jungsuk.ch6.practice.prac6_9_Marine;
 
 class Marine {
 	
